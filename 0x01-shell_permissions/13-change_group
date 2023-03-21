@@ -1,2 +1,2 @@
-#!/bin/bash
-chown vincet:staff *
+#!/bin/bashi
+chgrp school hello
